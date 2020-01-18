@@ -1,6 +1,11 @@
 #include<iostream>
+#include<vector>
 using namespace std;
-void main(){
-  cout<<"hola mundo";
-  system("pause>0");
+int main(){
+  vector<int>b;
+  int a;
+  cin >> a;
+  b.push_back(a + 3);
+  cout<<b.at(0)<<endl;
+  return 1;
 }
