@@ -1,9 +1,9 @@
-# TAREAS :D  
+# TAREAS Y RETOS :D  
 ## CLASE 01  
-### Tarea 1:  
+### Tarea 01:  
 Instalar Git  
-### Tarea 2:  
+### Tarea 02:  
 Completar el codigo de calculadora  
-### Reto 1:  
+### Reto 01:  
 Almacenar los resultados en un arreglo  
 ## CLASE 02
